@@ -11,3 +11,13 @@
 #### ✅ Data is saved in local storage (remains even after refresh)
 
 #### ✅ Simple and responsive UI
+
+# 🛠️ Technologies Used
+
+- HTML – Structure
+- CSS – Styling
+- JavaScript – Functionality (DOM manipulation & local storage)
+
+# 📷 Screenshot
+
+![To-Do List Screenshot](https://ik.imagekit.io/d3kzbpbila/thejashari_z-HowQgFs)
