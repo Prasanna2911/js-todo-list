@@ -4,7 +4,10 @@
 
 # 🚀 Features
 
-✅ Add new tasks
-✅ Delete completed tasks
-✅ Data is saved in local storage (remains even after refresh)
-✅ Simple and responsive UI
+#### ✅ Add new tasks
+
+#### ✅ Delete completed tasks
+
+#### ✅ Data is saved in local storage (remains even after refresh)
+
+#### ✅ Simple and responsive UI
