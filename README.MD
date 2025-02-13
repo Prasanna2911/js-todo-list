@@ -2,7 +2,7 @@
 
 ### A simple To-Do List application where users can add, delete, and store tasks using local storage.
 
-# 🚀 Features
+## 🚀 Features
 
 #### ✅ Add new tasks
 
@@ -12,12 +12,12 @@
 
 #### ✅ Simple and responsive UI
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML – Structure
 - CSS – Styling
 - JavaScript – Functionality (DOM manipulation & local storage)
 
-# 📷 Screenshot
+## 📷 Screenshot
 
 ![To-Do List Screenshot](https://ik.imagekit.io/d3kzbpbila/thejashari_z-HowQgFs)

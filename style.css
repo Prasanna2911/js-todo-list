@@ -106,3 +106,20 @@ ul li span {
 ul li span:hover {
   background-color: #edeef0;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: red;
+  }
+  ul li {
+    font-size: 15px;
+  }
+  input {
+    width: 50px;
+  }
+  .container .row button {
+    width: 40px !important;
+    padding-left: 20px;
+    /* background-color: red; */
+  }
+}
